@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sharon
-- 👀 I’m interested in predicting stocks
-- 🌱 I’m currently learning TensorFlow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in predicting real estate prices
+- I have a beautiful cat and a handsome dog
+
 
 <!---
 QueenSharon/QueenSharon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
