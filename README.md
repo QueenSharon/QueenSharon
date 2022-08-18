@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QueenSharon
+- 👋 Hi, I’m @Sharon
 - 👀 I’m interested in predicting stocks
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on ...
